@@ -15,7 +15,7 @@
 <p align="center">
 <a href="mailto:Master.hdez@gmail.com"><img title="Correo" src="https://img.shields.io/badge/Correo-master.hdez@gmail.com-blueviolet?style=for-the-badge&logo=gmai"></a>
 <a href="https://t.me/joinchat/AAAAAETqm9bQH0uFopDJsQ"><img title="Chat" src="https://img.shields.io/badge/CHAT-TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
-<a href="https://t.me/joinchat/AAAAAETqm9bQH0uFopDJsQ"><img title="Twitter" src="https://img.shields.io/badge/CHAT-TWITTER-blue?style=for-the-badge&logo=twitter"></a>
+<a href="https://twitter.com/MASTERSV19"><img title="Twitter" src="https://img.shields.io/badge/CHAT-TWITTER-blue?style=for-the-badge&logo=twitter"></a>
 </p>
 
 **MasTerSv RK** es un framework diseñado para automatizar el proceso para atacar un router de diferentes maneras. Actualmente las redes WIFI siguen siendo vulnerables a estos ataques y este pequeño programa en BASH ayuda a automatizar a realizar dichos ataques, trabaja principalmente con dependencias muy famosas en distribuciones como **Kali Linux** o **Parrot Security OS**
