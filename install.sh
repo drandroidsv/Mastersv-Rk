@@ -48,7 +48,7 @@ esac
 
 if [[ $EUID -ne 0 ]]; then	
 	echo "														         "
-	echo " 			(✗) No eres usuario root, para ejecutar la heramienta tienes que ejecutarla siendo root (✗)      "				  
+	echo " 			(✗) No eres usuario root, (✗) ejecuta sudo ./install.sh      "				  
 	echo "				(✗) You are not a root user, to run the tool you have to run it as root (✗)              "		
         	exit 1
 fi
@@ -123,4 +123,4 @@ chmod +x masterrk.sh
 mkdir handshake
 echo -e "iniciando programa en 5 segundos"
 sleep 5
-bash routerkill.sh
+bash mastersvrk.sh
