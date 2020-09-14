@@ -58,7 +58,7 @@
 ## Instalacion 🔧
 
 * git clone https://github.com/drandroidsv/Mastersv-Rk.git
-* cd router-kill
+* cd Mastersv-Rk
 * chmod +x install.sh
 * ./install.sh
 
