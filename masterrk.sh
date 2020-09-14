@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author: Facu Salgado parte del codigo esta hecho por Hacking.con.H
+#Author: MasTerSv parte del codigo esta hecho por Hacking.con.H
 
 # trap ctrl-c and call ctrl_c()
 trap ctrl_c INT
